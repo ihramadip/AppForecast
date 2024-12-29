@@ -1,9 +1,9 @@
 matplotlib==3.10.0
-numpy==1.26.0   # Update versi numpy agar kompatibel dengan pandas 2.2.3
+numpy==1.26.0
 pandas==2.2.3
 plotly==5.24.1
 scikit-learn==1.6.0
 streamlit==1.41.1
-tensorflow==2.10.0
+tensorflow==2.18.0  # Versi yang lebih baru dari tensorflow
 yfinance==0.2.51
 pip==24.3.1
